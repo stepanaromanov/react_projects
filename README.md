@@ -9,3 +9,10 @@ What was used: React(useState), TypeScript.
 Search bar activated when user is clicking on the loupe icon.
 
 What was used: React(useState, useEffect, useRef), TypeScript. 
+
+### 3. Project progress tracker
+
+Status tracker where user manually updates percentage of completion of a project.
+
+What was used: React(useState, useEffect, useRef), TypeScript. 
+

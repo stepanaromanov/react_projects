@@ -365,80 +365,6 @@ body {
   margin: 2rem 0;
 }
 
-
-/*Colors */
-/* Text colors */
-
-.text-primary {
-  color: #7633f9;
-}
-
-.text-secondary {
-  color: #ff9800;
-}
-
-.text-success {
-  color: #28a745;
-}
-
-.text-warning {
-  color: #ffc107;
-}
-
-.text-info {
-  color: #17a2b8;
-}
-
-.text-light {
-  color: #f8f9fa;
-}
-
-.text-dark {
-  color: #343a40;
-}
-
-.text-accept {
-  color: #284ea7;
-}
-
-/* Background colors */
-
-.bg-primary {
-  background-color: #7633f9;
-}
-
-.bg-secondary {
-  background-color: #ff9800;
-}
-
-.bg-success {
-  background-color: #28a745;
-}
-
-.bg-danger {
-  background-color: #dc3545;
-}
-
-.bg-warning {
-  background-color: #ffc107;
-}
-
-.bg-info {
-  background-color: #17a2b8;
-}
-
-.bg-light {
-  background-color: #f8f9fa;
-}
-
-.bg-dark {
-  background-color: #343a40;
-}
-
-.bg-accept {
-  background-color: #284ea7;
-}
-
 .w-100 {
   width: 100%;
 }
@@ -455,23 +381,6 @@ body {
   width: 25%;
 }
 
-.form-group {
-  margin-bottom: 1rem;
-}
-
-.form-group label {
-  display: block;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-.form-group input,
-.form-group select {
-  border: 1px solid rgba(238, 238, 238, 0.9333333333);
-  border-radius: 5px;
-  padding: 0.5rem;
-  width: 100%;
-}
 
 .shadow-sm {
   box-shadow: 0 2px 8px 3px rgba(0, 0, 0, 0.15);
