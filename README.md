@@ -16,3 +16,14 @@ Status tracker where user manually updates percentage of completion of a project
 
 What was used: React(useState, useEffect, useRef), TypeScript. 
 
+### 4. Tasks tracker
+
+Tracker where user can manually add new tasks, mark them as completed and delete them.
+
+What was used: React(useState, styled components),  TypeScript. 
+
+### 5. Animated login form
+
+Login form which border turns red when user submits wrong credentials and login animation happens if credentials are valid. 
+
+What was used: React(useState, useRef, styled components, styled components animation), Bootstrap, TypeScript.
