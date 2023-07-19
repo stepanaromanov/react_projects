@@ -33,3 +33,9 @@ What was used: React (useState, useRef, styled components, styled components ani
 Expenses calculator where user can add a new record with date, description and amount. Then all the expenses are summed up and substracted from predefined budget. In the end user gets savings. User can modify or delete already created records and clear all the records with a single click as well.
 
 What was used: React (useState, useEffect, styled components animation, Local Storage), TypeScript, Tailwind CSS.
+
+### 7. Lazy loading
+
+This approach helps not to load the entire page at once but to load images and text only when user scrolls down, when data is in focus.
+
+What was used: React (useState, useEffect, useCallback, Fetch), TypeScript.
