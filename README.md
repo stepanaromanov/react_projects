@@ -38,4 +38,10 @@ What was used: React (useState, useEffect, styled components animation, Local St
 
 This approach helps not to load the entire page at once but to load images and text only when user scrolls down, when data is in focus.
 
-What was used: React (useState, useEffect, useCallback, Fetch), TypeScript.
+What was used: React (useState, useEffect, Fetch), TypeScript, Bootstrap.
+
+### 8. Marketing email
+
+Email template which can be used for marketing communications with potential customers. This one particularly offers to book a time for call with manager to discuss free trial.   
+
+What was used: React (@react-email/components), TypeScript.
